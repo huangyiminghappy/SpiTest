@@ -1,4 +1,4 @@
 # SpiTest
-Ö´ĞĞtest°üÖĞµÄDoSearchTestÀàºó
-ÔÚSpiTest.spi.SearchÎÄ¼şÄÚÈİÖĞ²»¶ÏÀ´»ØÇĞ»»ÊäÈë
-SpiTest.spi.DatabaseSearchºÍSpiTest.spi.FileSearchÄÜ¹Û²ìµ½´òÓ¡ÄÚÈİµÄ±ä»¯
+æ‰§è¡ŒteståŒ…ä¸­çš„DoSearchTestç±»å
+åœ¨SpiTest.spi.Searchæ–‡ä»¶å†…å®¹ä¸­ä¸æ–­æ¥å›åˆ‡æ¢è¾“å…¥
+SpiTest.spi.DatabaseSearchå’ŒSpiTest.spi.FileSearchä¸¤ä¸ªæ–‡æœ¬èƒ½è§‚å¯Ÿåˆ°æ‰“å°å†…å®¹çš„å˜åŒ–
