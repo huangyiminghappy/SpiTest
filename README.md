@@ -1,4 +1,4 @@
 # SpiTest
 执行test包中的DoSearchTest类后
 在SpiTest.spi.Search文件内容中不断来回切换输入
-SpiTest.spi.DatabaseSearch和SpiTest.spi.FileSearch两个文本能观察到打印内容的变化
+SpiTest.spi.DatabaseSearch和SpiTest.spi.FileSearch两个文本能观察到打印内容的变化。
